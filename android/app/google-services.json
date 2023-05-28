@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275756959190",
+    "project_id": "producthunt-87194",
+    "storage_bucket": "producthunt-87194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275756959190:android:1e9ae06c89aacf3cc85077",
+        "android_client_info": {
+          "package_name": "com.producthuntassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYxCmfHLaeOYNcN0D7d5u5mkl1eBHhdhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
