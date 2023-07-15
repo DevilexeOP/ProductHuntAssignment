@@ -4,12 +4,12 @@ import {initializeApp} from 'firebase/app';
 import {getFirestore} from 'firebase/firestore/lite';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyBEeM7J-Guyqo-5275vWbnjXQqiK0OEn0w',
-  authDomain: 'producthunt-87194.firebaseapp.com',
-  projectId: 'producthunt-87194',
+  apiKey: '@YOUR_KEY',
+  authDomain: '@YOUR_DOMAIN',
+  projectId: '@YOUR_ID',
   storageBucket: 'producthunt-87194.appspot.com',
   messagingSenderId: '275756959190',
-  appId: '1:275756959190:web:6202df5daff6e960c85077',
+  appId: '@YOUR_APPID',
 };
 
 const app = initializeApp(firebaseConfig);
